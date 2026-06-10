@@ -1,0 +1,6 @@
+groq
+google-genai
+python-dotenv
+requests
+beautifulsoup4
+mcp[cli]
